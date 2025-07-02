@@ -1,0 +1,26 @@
+@import url("https://p.typekit.net/p.css?s=1&k=iqn0sgh&ht=tk&f=44526&a=113033722&app=typekit&e=css");
+
+@font-face {
+    font-family: 'tiempos-text';
+    font-style: italic;
+    font-weight: 100 900;
+    src: url('https://devon-bwevents.github.io/zapconnect25-fonts/tiempos-text-italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'tiempos-text';
+    font-style: normal;
+    font-weight: 100 900;
+    src: url('https://devon-bwevents.github.io/zapconnect25-fonts/tiempos-text-regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family:"degular-display";
+    src: url("https://use.typekit.net/af/6381a7/00000000000000007735c864/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"),
+         url("https://use.typekit.net/af/6381a7/00000000000000007735c864/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"),
+         url("https://use.typekit.net/af/6381a7/00000000000000007735c864/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+    font-display:auto;
+    font-style:normal;
+    font-weight:500;
+    font-stretch:normal;
+}
